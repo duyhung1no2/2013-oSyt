@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="vne_categories">
+        <item name="">Trang chủ</item>
+        <item name="">Xã hội</item>
+        <item name="">Thế giới</item>
+        <item name="">Kinh doanh</item>
+        <item name="">Văn hoá</item>
+        <item name="">Thể thao</item>
+        <item name="">Pháp luật</item>
+        <item name="">Đời sống</item>
+        <item name="">Khoa học</item>
+        <item name="">Vi tính</item>
+        <item name="">Ôtô - Xe máy</item>
+        <item name="">Bạn đọc viết</item>
+        <item name="">Cười</item>
+    </string-array>
+    <string-array name="vne_rss">
+        <item name="">http://vnexpress.net/rss/tin-moi-nhat.rss</item>
+        <item name="">http://vnexpress.net/rss/xa-hoi.rss</item>
+        <item name="">http://vnexpress.net/rss/the-gioi.rss</item>
+        <item name="">http://kinhdoanh.vnexpress.net/rss/tin-moi-nhat.rss</item>
+        <item name="">http://giaitri.vnexpress.net/rss/tin-moi-nhat.rss</item>
+        <item name="">http://thethao.vnexpress.net/rss/tin-moi-nhat.rss</item>
+        <item name="">http://vnexpress.net/rss/phap-luat.rss</item>
+        <item name="">http://giaitri.vnexpress.net/rss/sach.rss</item>
+        <item name="">http://vnexpress.net/rss/khoa-hoc.rss</item>
+        <item name="">http://sohoa.vnexpress.net/rss/trang-chu</item>
+        <item name="">http://vnexpress.net/rss/oto-xe-may.rss</item>
+        <item name="">http://vnexpress.net/rss/ban-doc-viet.rss</item>
+        <item name="">http://vnexpress.net/rss/cuoi.rss</item>
+    </string-array>
+
+</resources>
